@@ -28,9 +28,8 @@ The main objectives of this project are:
 
 ## 🌍 Dataset Description
 
-- **Source:** Kaggle (Crop Yield Prediction Dataset)  
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset) 
 - **Scope:** Filtered for **Bangladesh-specific agricultural data**  
-- **Target Variable:** Crop Yield  
 
 ### Key Features:
 - Year  
@@ -109,6 +108,5 @@ To ensure robustness:
 ---
 
 ## 📂 Contribution
-
-- @Enayet24
-  
+- [Enayet24](https://github.com/Enayet24)
+- [Iffat Islam Aria](https://github.com/iffat-islam-aria)  
