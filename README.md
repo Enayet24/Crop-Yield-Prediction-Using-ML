@@ -10,7 +10,6 @@ This repository includes:
 - 📓 Jupyter Notebook implementation  
 - 📄 Project Report (IEEE format)  
 - 📊 Presentation slides  
-- 🎥 Project presentation video  
 
 ---
 
