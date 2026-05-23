@@ -6,11 +6,6 @@ This project focuses on predicting **crop yield using machine learning technique
 
 Multiple supervised learning models were implemented and compared to identify the most effective approach for accurate yield prediction. The project follows a complete **data science pipeline**, including preprocessing, exploratory data analysis, feature engineering, dimensionality reduction, model training, and evaluation.
 
-This repository includes:
-- 📓 Jupyter Notebook implementation  
-- 📄 Project Report (IEEE format)  
-- 📊 Presentation slides  
-
 ---
 
 ## 🎯 Objectives
